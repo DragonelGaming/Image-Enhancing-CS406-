@@ -1,4 +1,4 @@
-## **Image Processing CS406 **
+## Image Processing CS406 
 ## **How To Run?**
 To run the program, follow these steps:
 
